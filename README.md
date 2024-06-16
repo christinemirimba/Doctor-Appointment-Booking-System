@@ -17,7 +17,7 @@ The Doctor Appointment Booking System is designed to streamline the process of s
 ## System Requirements
 
 - **Backend**: PHP, MySQL database.
-- **Frontend**: HTML, CSS, JavaScript.
+- **Frontend**: HTML, CSS.
 - **Server**: XAMPP or similar for local development.
 - **Additional**: Visual Studio Code or preferred IDE for coding.
 
