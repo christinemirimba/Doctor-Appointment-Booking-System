@@ -1,7 +1,8 @@
 # Doctor-Appointment-Booking
 ![Landing Page](screenshotss/landing_page.png)
+This PHP-based open source project is a web application for booking medical appointments.Patients can book appointments with their doctors online.
 
-This PHP-based open source project is a web application for booking medical appointments.Patients can book appointments with their doctors online. 
+# Introduction
 
 The Doctor Appointment Booking System is designed to streamline the process of scheduling appointments between doctors and patients at the Catholic University of Eastern Africa's health center. This system aims to replace manual and basic digital processes with a robust, user-friendly application that enhances efficiency and patient care.
 
