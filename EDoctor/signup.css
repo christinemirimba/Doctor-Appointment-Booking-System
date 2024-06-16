@@ -1,0 +1,57 @@
+/* Container styles */
+.container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form styles */
+form {
+    display: grid;
+    grid-gap: 10px;
+}
+
+label {
+    font-weight: bold;
+    color: maroon; /* Maroon color for labels */
+}
+
+.input-group {
+    display: flex; /* Use flexbox to align inputs horizontally */
+    gap: 10px; /* Add some space between inputs */
+}
+
+.input-group input {
+    flex: 1; /* Expand inputs to fill available space */
+}
+
+.buttons {
+    display: flex; /* Use flexbox to align buttons horizontally */
+    gap: 10px; /* Add some space between buttons */
+    justify-content: flex-end; /* Align buttons to the right */
+}
+
+button[type="submit"],
+button[type="reset"] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #800000; /* Maroon background color */
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover,
+button[type="reset"]:hover {
+    background-color: #5c0000; /* Darker shade of maroon on hover */
+}
+
+/* Error message style */
+.error-message {
+    color: #ff0000;
+    margin-top: 10px;
+}
