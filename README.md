@@ -1,4 +1,6 @@
 # Doctor-Appointment-Booking-System
+![Landing Page](/screenshots/landing page.png "Landing Page")
+
 This PHP-based open source project is a web application for booking medical appointments.Patients can book appointments with their doctors online.
 
 ## Introduction
@@ -31,6 +33,5 @@ The Doctor Appointment Booking System is designed to streamline the process of s
 6. **Import the provided SQL file**. The file is named `sql.sql` and is located inside the source code root folder.
 7. **Browse the Doctor's Appointment System in a browser**. i.e. [http://localhost/EDoctor/index.html](http://localhost/EDoctor/index.html)
 
-## Project Overview
 
 
